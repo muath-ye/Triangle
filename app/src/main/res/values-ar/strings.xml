@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مثلث</string>
+    <string name="side_one">الضلع الأول</string>
+    <string name="side_three">الضلع الثالث</string>
+    <string name="side_two">الضلع الثاني</string>
+    <string name="get_area">حساب المساحة</string>
+    <string name="get_hypotenuse">حساب الوتر</string>
+    <string name="area_is">ناتج المساحة:</string>
+    <string name="sorry_its_not_area_values">عفواَ، هذه ليست قيم مثلث</string>
+    <string name="ensure_input_all_values">تأكد من ملئ الأضلاع الثلاثة</string>
+    <string name="fill_first_two_field_to_get_hypo">املئ أول حقلين للحصول على الوتر</string>
+</resources>
