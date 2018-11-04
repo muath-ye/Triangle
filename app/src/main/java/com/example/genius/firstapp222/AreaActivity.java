@@ -56,6 +56,8 @@ public class AreaActivity extends AppCompatActivity {
     double A14 = 0, B14 = 0, C14 = 0, r = 0;
     DecimalFormat formater = new DecimalFormat("#.##");
 
+
+
     /**
      * My Functions eText
      */
